@@ -1,4 +1,5 @@
 # IT Service Desk & Incident Performance Analytics
+![IT Service Desk Analytics Dashboard](screenshots/IT_Service_Desk_Analytics_Dashboard.png)
 
 ## Project Overview
 
@@ -21,6 +22,19 @@ The objective is to demonstrate practical data analysis, KPI development, data v
 - **Power BI Desktop** — dashboard development and visualization
 - **Microsoft Excel** — optional data inspection
 - **Git and GitHub** — version control and project presentation
+
+
+## Skills Demonstrated
+
+- SQL (MySQL)
+- Power BI Dashboard Development
+- KPI Creation
+- Data Cleaning
+- Data Visualization
+- Incident Management Analytics
+- SLA Performance Analysis
+- Excel Pivot Tables
+- Git & GitHub
 
 ## Dataset
 
@@ -51,13 +65,13 @@ The Power BI report includes the following KPI cards and visuals.
 5. Ticket Volume by Assignment Group
 6. Monthly Ticket Volume
 
-## Key Metrics
+## Dashboard KPIs
 
-- **Total Tickets:** Count of incident records.
-- **SLA Breach Rate:** Percentage of incidents whose resolution time exceeds the applicable SLA hours.
-- **Average Resolution Time:** Mean resolution time in hours.
-- **Average Customer Satisfaction:** Mean customer satisfaction score.
-- **Ticket Volume:** Number of incidents grouped by category, assignment group, or month.
+| KPI | Value |
+|------|-------|
+| Total Tickets | 5,000 |
+| SLA Breach Rate | 17.90% |
+| Average Customer Satisfaction | 4.16 / 5 |
 
 ## Methodology
 
